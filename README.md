@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aishsingh12
 - 👀 I’m interested in Coding & Art
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Web Development
 
 
 <!---
